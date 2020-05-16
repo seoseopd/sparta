@@ -1,0 +1,13 @@
+input id='post-url' 코드 입력 후
+크롬 편집자 개발도구에서  $('#post-url').val() 입력
+웹페이지에서 reload 후 검색어 입력
+크롬 편집자 개발도구에서  $('#post-url').val() 입력
+입력한 검색어 보여줌
+
+개발자도구에서 사용
+$("#post-box").hide()
+$("#post-box").show()
+$('#cards-box').append('<button>Im a button</button>') : 버튼 추가
+
+링그 url <a href='${link_url}
+src=${img_url}
